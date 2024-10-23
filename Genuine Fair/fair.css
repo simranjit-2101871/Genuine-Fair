@@ -1,0 +1,115 @@
+/*THis css is taken from f.css*/
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f3e8ff;
+    font-family: 'Arial', sans-serif;
+
+}
+
+
+/* Navigation section */
+.nav {
+    display: flex;
+    justify-content: space-between;
+    /* Distributes space evenly */
+    align-items: center;
+    background-image: url('nav2.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120px;
+    transition: height 0.3s ease; /* Smooth height transition */
+    padding: 0 20px;
+    /* Adds some padding for better spacing */
+    border-radius: 10px;
+    /* Smooth corners */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    /* Adds subtle shadow */
+    
+    
+}
+
+.image {
+    height: 80px;
+    width: 80px;
+    border: 2px solid #5e2e91;
+    /* Softer border color */
+    border-radius: 50%;
+    /* Makes the image circular */
+}
+
+.btnimg {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    border-radius: 8px;
+    /* Adds rounded corners */
+}
+
+.btn {
+    height: 56px;
+    width: 56px;
+    padding: 0;
+    background-color: #151574;
+    border-radius: 10px;
+    /* Smooth rounded corners */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    /* Adds depth */
+    
+}
+
+h1 {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    /* Adds text shadow for better readability */
+    text-align: center;
+}
+
+
+
+.extendednav{
+  
+  position:absolute;
+  left:355px;
+  top:130px;
+  display:none;
+
+
+}
+.list{
+  display: flex;
+  list-style: none;
+}
+li{
+  margin-left: 90px;
+  
+}
+
+
+.link{
+  text-decoration: none;
+  color: white;
+  border: 2px solid;
+  border-radius: 20px;
+  padding:10px;
+}
+
+
+
+/*FROm here the css of this file means fair.css starts*/
+.aceeslink{
+    height: 73px;
+    width: 98%;
+    border: 3px solid grey;
+    border-radius: 20px;
+    background-color: rgb(164, 156, 156);
+    margin-top: 13px;
+    margin-left: 7px;
+    display: flex;
+    align-items: center;
+}
+.tommy{
+    margin-left:16px;
+}

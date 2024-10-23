@@ -1,0 +1,2 @@
+ 1.) when an arrow hovers ove the the elment then how it knows and what does it returns like when it get the marin of the element or when it get inside of the element
+ 2.) link ke default blue  ko agar thik  karna ho toh kya krane
